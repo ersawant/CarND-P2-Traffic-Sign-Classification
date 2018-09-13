@@ -17,9 +17,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/vis.jpg "Visualization"
-[image2]: ./examples/standard.jpg "Standarizing"
-[image3]: ./examples/top5.jpg "Top5"
+[image1]: ./examples/vis.png "Visualization"
+[image2]: ./examples/standard.png "Standarizing"
+[image3]: ./examples/top5.png "Top5"
 
 [image4]: ./my_web_examples_signs/1.jpg "Traffic Sign 1"
 [image5]: ./my_web_examples_signs/9.jpg  "Traffic Sign 2"
